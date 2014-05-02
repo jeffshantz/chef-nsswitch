@@ -1,7 +1,7 @@
 name             'nsswitch'
 maintainer       'Jeff Shantz'
 maintainer_email 'Western University'
-license          'All rights reserved'
+license          'Apache 2.0'
 description      'Manages the Name Service Switch (/etc/nsswitch.conf).'
 long_description 'Manages the Name Service Switch (/etc/nsswitch.conf).'
 version          '0.1.0'
